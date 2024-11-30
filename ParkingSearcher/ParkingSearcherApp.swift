@@ -1,17 +1,21 @@
 //
-//  ParkingSearcherApp.swift
-//  ParkingSearcher
+//  ParkingFinderApp.swift
+//  FindP
 //
-//  Created by STDC_13 on 28/11/2024.
+//  Created by STDC_13 on 30/11/2024.
 //
+
 
 import SwiftUI
 
 @main
-struct ParkingSearcherApp: App {
+struct ParkingFinderApp: App {
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreen()
         }
     }
 }
+

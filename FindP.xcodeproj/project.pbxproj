@@ -255,6 +255,9 @@
 				DEVELOPMENT_TEAM = 6UG68T5QFF;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to your camera to scan license plates.";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Location usage.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Location usage.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -284,6 +287,9 @@
 				DEVELOPMENT_TEAM = 6UG68T5QFF;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to your camera to scan license plates.";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Location usage.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Location usage.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
